@@ -6,10 +6,25 @@ PortWatch is a small Windows desktop app that shows which programs are using you
 
 It is a viewer, not a security product. It is not a firewall, antivirus or malware detector, and it can't block anything.
 
-<!-- Screenshots: add images to docs/screenshots/ and link them here once you have them. -->
+
 ## Screenshots
 
-_Screenshots haven't been added yet. Planned: Overview, Connections, Ports, Activity._
+Here is a look at PortWatch:
+
+### Overview
+![PortWatch Overview](screenshots/overview.png)
+
+### Live Connections
+![Connection Monitor](screenshots/connection.png)
+
+### Listening Ports
+![Listening Ports](screenshots/ports.png)
+
+### Activity History
+![Activity Timeline](screenshots/activity.png)
+
+### Alerts
+![Alerts Dashboard](screenshots/alerts.png)
 
 ## Features
 
