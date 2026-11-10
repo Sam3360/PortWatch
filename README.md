@@ -15,7 +15,7 @@ Here is a look at PortWatch:
 ![PortWatch Overview](screenshots/overview.png)
 
 ### Live Connections
-![Connection Monitor](screenshots/connection.png)
+![Connection Monitor](screenshots/connections.png)
 
 ### Listening Ports
 ![Listening Ports](screenshots/ports.png)
